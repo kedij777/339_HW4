@@ -125,7 +125,7 @@ nav:hover, nav:focus {
 }
 
 /* Step 3: Write selector/rule property to style all elements when in focus*/
-*:focus{
+:focus{
   border: 2px solid;
 }
 
